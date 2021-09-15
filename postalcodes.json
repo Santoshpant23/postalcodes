@@ -1,0 +1,5504 @@
+[
+    {
+      "District": "Achham",
+      "Post Office": "Achham",
+      "PostalCode": 10700,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Chaurpati",
+      "PostalCode": 10701,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Srikot",
+      "PostalCode": 10702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Thanti",
+      "PostalCode": 10703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Mellekh",
+      "PostalCode": 10704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Bayalpata",
+      "PostalCode": 10705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Bhatakatiya",
+      "PostalCode": 10706,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Jayagadh",
+      "PostalCode": 10707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Kalagaun",
+      "PostalCode": 10709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Kuchikot",
+      "PostalCode": 10710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Kamal bazar",
+      "PostalCode": 10711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Dhakari",
+      "PostalCode": 10712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Achham",
+      "Post Office": "Turmakhad",
+      "PostalCode": 10713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Arghakhanchi",
+      "PostalCode": 32700,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Balkot",
+      "PostalCode": 32701,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Arghatosh",
+      "PostalCode": 32702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Khana",
+      "PostalCode": 32703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Wangla",
+      "PostalCode": 32704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Hamshapur",
+      "PostalCode": 32705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Thada",
+      "PostalCode": 32706,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Khilji",
+      "PostalCode": 32708,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Khidim",
+      "PostalCode": 32709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Pali",
+      "PostalCode": 32710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Dhikura",
+      "PostalCode": 32711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Argha",
+      "PostalCode": 32712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Arghakhanchi",
+      "Post Office": "Subarnakhal",
+      "PostalCode": 32713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Baglung",
+      "PostalCode": 33300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Pala",
+      "PostalCode": 33302,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Bihukot",
+      "PostalCode": 33303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Harichaur",
+      "PostalCode": 33304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Balewa Payupata",
+      "PostalCode": 33305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Jaidi Belbagar",
+      "PostalCode": 33306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Bereng",
+      "PostalCode": 33307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Galkot",
+      "PostalCode": 33308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Pandavkhani",
+      "PostalCode": 33309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Arnakot",
+      "PostalCode": 33310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Khrwang",
+      "PostalCode": 33311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Bongadovan",
+      "PostalCode": 33312,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Jhimpa",
+      "PostalCode": 33313,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baglung",
+      "Post Office": "Kusmi Shera",
+      "PostalCode": 33314,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Baitadi",
+      "PostalCode": 10200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Kesharpur",
+      "PostalCode": 10201,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Patan",
+      "PostalCode": 10202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Khodpe",
+      "PostalCode": 10203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Mulkhatali",
+      "PostalCode": 10204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Gajari Changgad",
+      "PostalCode": 10205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Dehimandau",
+      "PostalCode": 10207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Sharmali",
+      "PostalCode": 10209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Srikot",
+      "PostalCode": 10210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Dilasaini",
+      "PostalCode": 10211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Swopana Taladehi",
+      "PostalCode": 10212,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Purchaudihat",
+      "PostalCode": 10213,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Sitad",
+      "PostalCode": 10214,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Baitadi",
+      "Post Office": "Dhungad",
+      "PostalCode": 10215,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Bajhang",
+      "PostalCode": 10500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Talkot",
+      "PostalCode": 10501,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Jamatola",
+      "PostalCode": 10502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Jaya Prithivi Nagar",
+      "PostalCode": 10505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Chhanna",
+      "PostalCode": 10506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Chaudhari",
+      "PostalCode": 10507,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Rayal",
+      "PostalCode": 10508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Thalara",
+      "PostalCode": 10509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Bungal",
+      "PostalCode": 10510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajhang",
+      "Post Office": "Shayadi",
+      "PostalCode": 10511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Bajura",
+      "PostalCode": 10600,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Dandakot",
+      "PostalCode": 10602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Jukot",
+      "PostalCode": 10603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Faiti",
+      "PostalCode": 10604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Kolti",
+      "PostalCode": 10605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Manakot",
+      "PostalCode": 10606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Dogadi",
+      "PostalCode": 10607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Tate",
+      "PostalCode": 10608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bajura",
+      "Post Office": "Chhatara",
+      "PostalCode": 10609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Banke",
+      "PostalCode": 21900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Suiya",
+      "PostalCode": 21901,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Bhojbhagawanpur",
+      "PostalCode": 21902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Khaskusma",
+      "PostalCode": 21903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Kohalapur",
+      "PostalCode": 21904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Ramjha",
+      "PostalCode": 21905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Udayapur",
+      "PostalCode": 21907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Chisapani",
+      "PostalCode": 21910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Godahana",
+      "PostalCode": 21911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Jayaspur",
+      "PostalCode": 21912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Khajura",
+      "PostalCode": 21913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Banke",
+      "Post Office": "Chandranagar",
+      "PostalCode": 21914,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Bara",
+      "PostalCode": 44400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Nijgadh",
+      "PostalCode": 44401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Mahendra Adarsha",
+      "PostalCode": 44402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Simraungadh",
+      "PostalCode": 44403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Umjan",
+      "PostalCode": 44404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Bariyarpur",
+      "PostalCode": 44405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Kabahigoth",
+      "PostalCode": 44406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Dumarwana",
+      "PostalCode": 44408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Pipradhigoth",
+      "PostalCode": 44410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Basantapur",
+      "PostalCode": 44411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Simara",
+      "PostalCode": 44412,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Parsoni",
+      "PostalCode": 44413,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Amalekhgunj",
+      "PostalCode": 44416,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bara",
+      "Post Office": "Jeetpur (Bhavanipur)",
+      "PostalCode": 44417,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Bardiya",
+      "PostalCode": 21800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Jamuni",
+      "PostalCode": 21801,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Mainapokhar",
+      "PostalCode": 21802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Motipur",
+      "PostalCode": 21803,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Magaragadi",
+      "PostalCode": 21804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Baganaha",
+      "PostalCode": 21808,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Bhurigaun",
+      "PostalCode": 21809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Rajapur",
+      "PostalCode": 21811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Pashupatinagar",
+      "PostalCode": 21813,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bardiya",
+      "Post Office": "Sanoshri",
+      "PostalCode": 21814,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Bhaktapur",
+      "PostalCode": 44800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Dubakot",
+      "PostalCode": 44802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Kharipati",
+      "PostalCode": 44804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Tathali",
+      "PostalCode": 44805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Jorpati",
+      "PostalCode": 44806,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Gamcha",
+      "PostalCode": 44809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Dibyashwori",
+      "PostalCode": 44810,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Thimi",
+      "PostalCode": 44811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhaktapur",
+      "Post Office": "Nagarkot",
+      "PostalCode": 44812,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Bhojpur",
+      "PostalCode": 57000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Kulung Agrakhe",
+      "PostalCode": 57001,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Dingla",
+      "PostalCode": 57002,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Deurali",
+      "PostalCode": 57003,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Pyauli",
+      "PostalCode": 57004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Yaku",
+      "PostalCode": 57005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Bastim",
+      "PostalCode": 57006,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Timma",
+      "PostalCode": 57008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Dilpa Annapurna",
+      "PostalCode": 57009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Bhulke",
+      "PostalCode": 57010,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Baikunthe",
+      "PostalCode": 57011,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Ranibas",
+      "PostalCode": 57012,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Walangkha",
+      "PostalCode": 57013,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Tiwari Bhanjyang",
+      "PostalCode": 57014,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Bhojpur",
+      "Post Office": "Dobhane",
+      "PostalCode": 57015,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Chitwan",
+      "PostalCode": 44200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Ratnanagar",
+      "PostalCode": 44204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Mugling",
+      "PostalCode": 44206,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Narayangadh",
+      "PostalCode": 44207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Rampur",
+      "PostalCode": 44209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Soshi Bazar",
+      "PostalCode": 44212,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Harinagar",
+      "PostalCode": 44213,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitawan",
+      "Post Office": "Madi",
+      "PostalCode": 44214,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Bhandara",
+      "PostalCode": 44202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Khairahani",
+      "PostalCode": 44203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Jutpani",
+      "PostalCode": 44205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Phulbari",
+      "PostalCode": 44208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Meghauli",
+      "PostalCode": 44210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Chitwan",
+      "Post Office": "Patihani",
+      "PostalCode": 44211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Dadeldhura",
+      "PostalCode": 10300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Ugratara",
+      "PostalCode": 10302,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Dandaban",
+      "PostalCode": 10303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Ganeshpur",
+      "PostalCode": 10304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Gaira Ganesh",
+      "PostalCode": 10305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Jogbudha",
+      "PostalCode": 10306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Lamikande",
+      "PostalCode": 10307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Chipur",
+      "PostalCode": 10308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dadeldhura",
+      "Post Office": "Ajayameru",
+      "PostalCode": 10309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Dailekh",
+      "PostalCode": 21600,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Gaidabaj",
+      "PostalCode": 21602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Naumule",
+      "PostalCode": 21603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Byastada",
+      "PostalCode": 21604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Dhungeshwor",
+      "PostalCode": 21605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Malika",
+      "PostalCode": 21607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Dullu",
+      "PostalCode": 21608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Jambu Kandha",
+      "PostalCode": 21609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dailekh",
+      "Post Office": "Rakam Karnali",
+      "PostalCode": 21610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Dang",
+      "PostalCode": 22400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Hapur",
+      "PostalCode": 22402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Jumlepani",
+      "PostalCode": 22403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Bhaluwang",
+      "PostalCode": 22404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Koilabas",
+      "PostalCode": 22405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Jangrahawa",
+      "PostalCode": 22406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Rampur",
+      "PostalCode": 22407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Urahari",
+      "PostalCode": 22408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Hekuli",
+      "PostalCode": 22409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Panchakule",
+      "PostalCode": 22410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Shantinagar",
+      "PostalCode": 22411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Tulsipur",
+      "PostalCode": 22412,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Manpur",
+      "PostalCode": 22413,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Lamahi",
+      "PostalCode": 22414,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dang",
+      "Post Office": "Ghoraha",
+      "PostalCode": 22415,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Darchula",
+      "PostalCode": 10100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Rapla",
+      "PostalCode": 10101,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Duhuti",
+      "PostalCode": 10102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Malikarjun",
+      "PostalCode": 10104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Joljibi",
+      "PostalCode": 10105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Dandakot",
+      "PostalCode": 10106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Ritha Chaupata",
+      "PostalCode": 10107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Gokule",
+      "PostalCode": 10108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Sitola",
+      "PostalCode": 10109,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Marmalatinath",
+      "PostalCode": 10110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Darchula",
+      "Post Office": "Sipti",
+      "PostalCode": 10111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Dhading",
+      "PostalCode": 45100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Lapa",
+      "PostalCode": 45101,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Sertung",
+      "PostalCode": 45102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Phulkharka",
+      "PostalCode": 45103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Tripureshwor",
+      "PostalCode": 45104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Katunje",
+      "PostalCode": 45105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Sunkhani",
+      "PostalCode": 45106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Sunaulabazar",
+      "PostalCode": 45108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Maidi",
+      "PostalCode": 45109,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Khanikhola",
+      "PostalCode": 45110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Bhumisthan",
+      "PostalCode": 45111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Gajuri",
+      "PostalCode": 45112,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhading",
+      "Post Office": "Malekhu",
+      "PostalCode": 45113,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Dhankuta",
+      "PostalCode": 56800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Mudhebash",
+      "PostalCode": 56801,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Rajarani",
+      "PostalCode": 56802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Dandabazar",
+      "PostalCode": 56803,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Bhedetar",
+      "PostalCode": 56804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Ankhisalla",
+      "PostalCode": 56805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Hile",
+      "PostalCode": 56806,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Muga",
+      "PostalCode": 56807,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Teliya",
+      "PostalCode": 56808,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Pakhribash",
+      "PostalCode": 56809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Leguwa",
+      "PostalCode": 56810,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Mare Katahare",
+      "PostalCode": 56811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Arknaule",
+      "PostalCode": 56812,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhankuta",
+      "Post Office": "Chungmang",
+      "PostalCode": 56813,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Dhanusha",
+      "PostalCode": 45600,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Khajuri",
+      "PostalCode": 45601,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Tinkoriya",
+      "PostalCode": 45602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Yadukuha",
+      "PostalCode": 45603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Duhabi",
+      "PostalCode": 45604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Chakkar",
+      "PostalCode": 45605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Raghunathpur",
+      "PostalCode": 45606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Godar Chisapani",
+      "PostalCode": 45607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Dhanushadham",
+      "PostalCode": 45608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Bagachauda",
+      "PostalCode": 45610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Jatahi",
+      "PostalCode": 45611,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Phulgama",
+      "PostalCode": 45612,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Sankhuwa Mahendranagar",
+      "PostalCode": 45616,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dhanusha",
+      "Post Office": "Dhalkebar",
+      "PostalCode": 45617,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Dolakha",
+      "PostalCode": 45500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Khahare",
+      "PostalCode": 45501,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Namdu",
+      "PostalCode": 45502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Jiri",
+      "PostalCode": 45503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Japhekalapani",
+      "PostalCode": 45505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Melung",
+      "PostalCode": 45506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Bhusapheda",
+      "PostalCode": 45507,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Sunkhani",
+      "PostalCode": 45509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Khopachangu",
+      "PostalCode": 45510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Lamabagar",
+      "PostalCode": 45511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolakha",
+      "Post Office": "Chitre",
+      "PostalCode": 45512,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Dolpa",
+      "PostalCode": 21400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Juphal",
+      "PostalCode": 21401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Tripurakot",
+      "PostalCode": 21402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Liku",
+      "PostalCode": 21403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Sarmi",
+      "PostalCode": 21404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Kaigaun",
+      "PostalCode": 21405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Foksundo",
+      "PostalCode": 21406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Dolpa",
+      "Post Office": "Namdo",
+      "PostalCode": 21407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Doti",
+      "PostalCode": 10800,
+      "Post Office Type": "F.W.R.P.D."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Silgadhi",
+      "PostalCode": 10801,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Sanagaun",
+      "PostalCode": 10802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Daund",
+      "PostalCode": 10803,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Mauwa Nagardaha",
+      "PostalCode": 10804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Banedungrasen",
+      "PostalCode": 10805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Jorayal",
+      "PostalCode": 10806,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Gadhshera",
+      "PostalCode": 10807,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Lanakedareswor",
+      "PostalCode": 10808,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Boktan",
+      "PostalCode": 10809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Byal",
+      "PostalCode": 10810,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Doti",
+      "Post Office": "Mudbhara",
+      "PostalCode": 10811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Gorkha",
+      "PostalCode": 34000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Bungkot",
+      "PostalCode": 34002,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Manakamana",
+      "PostalCode": 34003,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Batase",
+      "PostalCode": 34004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Luintel",
+      "PostalCode": 34005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Anapipal",
+      "PostalCode": 34006,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Jaubari",
+      "PostalCode": 34007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Bhachchek",
+      "PostalCode": 34008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Saurpani",
+      "PostalCode": 34009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Ghyampesal",
+      "PostalCode": 34010,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Aarughat",
+      "PostalCode": 34011,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Gumda",
+      "PostalCode": 34012,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gorkha",
+      "Post Office": "Sirdibash",
+      "PostalCode": 34013,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Gulmi",
+      "PostalCode": 32600,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Purtighat",
+      "PostalCode": 32601,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Bharse",
+      "PostalCode": 32602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Chandrakot",
+      "PostalCode": 32603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Majuwa",
+      "PostalCode": 32604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Ridi",
+      "PostalCode": 32605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Sringa",
+      "PostalCode": 32606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Birabas",
+      "PostalCode": 32607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Wami",
+      "PostalCode": 32609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Ismadohali",
+      "PostalCode": 32610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Dhurkot",
+      "PostalCode": 32611,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Purkotadha",
+      "PostalCode": 32612,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Arje",
+      "PostalCode": 32613,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Manabhak",
+      "PostalCode": 32614,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Gulmi",
+      "Post Office": "Pipaldanda",
+      "PostalCode": 32615,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Humla",
+      "PostalCode": 21000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Muchu",
+      "PostalCode": 21003,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Lali",
+      "PostalCode": 21004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Sarkegadh",
+      "PostalCode": 21005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Darma",
+      "PostalCode": 21007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Humla",
+      "Post Office": "Srinagar",
+      "PostalCode": 21008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Ilam",
+      "PostalCode": 57300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Nayabazar",
+      "PostalCode": 57302,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Pashupatinagar",
+      "PostalCode": 57303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Aaitabare",
+      "PostalCode": 57304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Harkatebazar",
+      "PostalCode": 57305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Gajurmukhi",
+      "PostalCode": 57306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Mangal Bare",
+      "PostalCode": 57307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Nepaltar",
+      "PostalCode": 57308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Jamuna",
+      "PostalCode": 57309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Gitpur",
+      "PostalCode": 57310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Cheesa Pani Panchami",
+      "PostalCode": 57311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ilam",
+      "Post Office": "Phikal",
+      "PostalCode": 57312,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Jajarkot",
+      "PostalCode": 21500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Dhime",
+      "PostalCode": 21503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Dalli",
+      "PostalCode": 21504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Ragda",
+      "PostalCode": 21505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Rokaya gaun (Limsa)",
+      "PostalCode": 21506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Dashera",
+      "PostalCode": 21508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Thalaraikar",
+      "PostalCode": 21509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Garkhakot",
+      "PostalCode": 21510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jajarkot",
+      "Post Office": "Karkigaun",
+      "PostalCode": 21511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Jhapa",
+      "PostalCode": 57200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Baniyani",
+      "PostalCode": 57201,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Goldhap",
+      "PostalCode": 57202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Chandragadhi",
+      "PostalCode": 57203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Birtamod",
+      "PostalCode": 57204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Sanishchare",
+      "PostalCode": 57205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Budhabare",
+      "PostalCode": 57206,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Dhulabari",
+      "PostalCode": 57207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Kankarbhitta",
+      "PostalCode": 57208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Rajgadh",
+      "PostalCode": 57209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Durgapur",
+      "PostalCode": 57210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Jhapa",
+      "PostalCode": 57211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Dudhe",
+      "PostalCode": 57212,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Shivagunj",
+      "PostalCode": 57213,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Topagachhi",
+      "PostalCode": 57214,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Gaurigunj",
+      "PostalCode": 57215,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Gauradaha",
+      "PostalCode": 57216,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jhapa",
+      "Post Office": "Damak",
+      "PostalCode": 57217,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Jumla",
+      "PostalCode": 21200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Dillichaur",
+      "PostalCode": 21202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Tatopani",
+      "PostalCode": 21204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Malikathata",
+      "PostalCode": 21205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Kalikakhetu",
+      "PostalCode": 21206,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Narakot",
+      "PostalCode": 21207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Hatsinja",
+      "PostalCode": 21208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Jumla",
+      "Post Office": "Chautha",
+      "PostalCode": 21209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailal",
+      "Post Office": "Munuwa",
+      "PostalCode": 10902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Kailali",
+      "PostalCode": 10900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Tikapur",
+      "PostalCode": 10901,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Dododhara",
+      "PostalCode": 10903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Lamki",
+      "PostalCode": 10904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Masuriya",
+      "PostalCode": 10905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Pahalmanpur",
+      "PostalCode": 10906,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Hasuliya",
+      "PostalCode": 10907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Bhajani",
+      "PostalCode": 10908,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Joshipur",
+      "PostalCode": 10909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Phulbari",
+      "PostalCode": 10910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Atariya",
+      "PostalCode": 10911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Chaumala",
+      "PostalCode": 10912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kailali",
+      "Post Office": "Phaltude",
+      "PostalCode": 10914,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Kalikot",
+      "PostalCode": 21300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Sanniraskot",
+      "PostalCode": 21303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Mehalmudi",
+      "PostalCode": 21304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Kotbada",
+      "PostalCode": 21305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Kalikot",
+      "PostalCode": 21306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Padamghat",
+      "PostalCode": 21307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Jubitha",
+      "PostalCode": 21308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kalikot",
+      "Post Office": "Thirpu",
+      "PostalCode": 21309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Kanchanpur",
+      "PostalCode": 10400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Krishnapur",
+      "PostalCode": 10401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Kalika",
+      "PostalCode": 10402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Punarbas",
+      "PostalCode": 10403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Beldadi",
+      "PostalCode": 10404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Pipaladi",
+      "PostalCode": 10405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Kanchanpur",
+      "PostalCode": 10406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Chandani",
+      "PostalCode": 10407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Airport",
+      "PostalCode": 10409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Suda",
+      "PostalCode": 10410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kanchanpur",
+      "Post Office": "Jhalari",
+      "PostalCode": 10411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Kapilbastu",
+      "PostalCode": 32800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Pipara",
+      "PostalCode": 32801,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Patariya",
+      "PostalCode": 32802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Pakadi",
+      "PostalCode": 32804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Kopawa",
+      "PostalCode": 32805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Gotihawa",
+      "PostalCode": 32808,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Gorusinge",
+      "PostalCode": 32809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Pattharkot",
+      "PostalCode": 32810,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Thuniya",
+      "PostalCode": 32811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Maharajgunj",
+      "PostalCode": 32812,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Ganeshpur",
+      "PostalCode": 32813,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Chanauta",
+      "PostalCode": 32814,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Krishnanagar",
+      "PostalCode": 32815,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kapilbastu",
+      "Post Office": "Shiva Raj",
+      "PostalCode": 32816,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Kaski",
+      "PostalCode": 33700,
+      "Post Office Type": "W.R.P.D."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Rupakot",
+      "PostalCode": 33701,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Gagan Gaunda",
+      "PostalCode": 33702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Makaikhola",
+      "PostalCode": 33703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Majhathana",
+      "PostalCode": 33704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Sildujure",
+      "PostalCode": 33705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Nirmalpokhari",
+      "PostalCode": 33706,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Pardibandh",
+      "PostalCode": 33707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Bhalam",
+      "PostalCode": 33708,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Chapakot",
+      "PostalCode": 33709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Birethanti",
+      "PostalCode": 33710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Naudanda",
+      "PostalCode": 33711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Ghachok",
+      "PostalCode": 33712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaski",
+      "Post Office": "Purunchaur",
+      "PostalCode": 33713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Kathmandu",
+      "PostalCode": 44600,
+      "Post Office Type": "G.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Sankhu",
+      "PostalCode": 44601,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Chabahil",
+      "PostalCode": 44602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Sundarijal",
+      "PostalCode": 44603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Gauchar",
+      "PostalCode": 44604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Dillibazar",
+      "PostalCode": 44605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Bansbari",
+      "PostalCode": 44606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Tokha Saraswati",
+      "PostalCode": 44608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Sachibalaya",
+      "PostalCode": 44609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Manmaiju",
+      "PostalCode": 44610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Balaju",
+      "PostalCode": 44611,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Tribhuvan University",
+      "PostalCode": 44613,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Kalimati",
+      "PostalCode": 44614,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Pharping",
+      "PostalCode": 44615,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Baluwatar",
+      "PostalCode": 44616,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Sarbochcha Adalat",
+      "PostalCode": 44617,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Kirtipur",
+      "PostalCode": 44618,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Thankot",
+      "PostalCode": 44619,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Swayambhu",
+      "PostalCode": 44620,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Pashupati",
+      "PostalCode": 44621,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kathmandu",
+      "Post Office": "Budhanilkantha",
+      "PostalCode": 44622,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaverpalanchok",
+      "Post Office": "Pokharinarayanshthan",
+      "PostalCode": 45203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaverpalanchok",
+      "Post Office": "Gumati Bhanjyang",
+      "PostalCode": 45204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaverpalanchok",
+      "Post Office": "Mahadevasthan",
+      "PostalCode": 45213,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kaverpalanchok",
+      "Post Office": "Khopasi",
+      "PostalCode": 45216,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Kavrepalanchok",
+      "PostalCode": 45200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Ghartichhap",
+      "PostalCode": 45201,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Mangaltar",
+      "PostalCode": 45202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Dapcha",
+      "PostalCode": 45205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Panauti",
+      "PostalCode": 45209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Banepa",
+      "PostalCode": 45210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Panchkhal",
+      "PostalCode": 45212,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Phalante",
+      "PostalCode": 45214,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Kavrepalanchok",
+      "Post Office": "Dolal Ghat",
+      "PostalCode": 45215,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Khotang",
+      "PostalCode": 56200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Wakshila",
+      "PostalCode": 56201,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Aiselukharka",
+      "PostalCode": 56202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Jalpa",
+      "PostalCode": 56204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Lamidanda",
+      "PostalCode": 56205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Halesi mahadevasthan",
+      "PostalCode": 56206,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Buipa",
+      "PostalCode": 56208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Manebhanjyang",
+      "PostalCode": 56209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Sapteshworichhitapokhari",
+      "PostalCode": 56210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Khotang",
+      "PostalCode": 56211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Chisapani",
+      "PostalCode": 56212,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Khotang",
+      "Post Office": "Simpani",
+      "PostalCode": 56214,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Lalitpur",
+      "PostalCode": 44700,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Dhapakhel",
+      "PostalCode": 44703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Imadol",
+      "PostalCode": 44705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Darabartole",
+      "PostalCode": 44707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Lubhu",
+      "PostalCode": 44708,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Godawari",
+      "PostalCode": 44709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Chapagaun",
+      "PostalCode": 44710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Gotikhel",
+      "PostalCode": 44711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Bhattedanda",
+      "PostalCode": 44712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lalitpur",
+      "Post Office": "Pyutar",
+      "PostalCode": 44713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Lamjung",
+      "PostalCode": 33600,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Maling",
+      "PostalCode": 33602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Sundar Bazar",
+      "PostalCode": 33603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Sotipasal",
+      "PostalCode": 33604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Kunchha",
+      "PostalCode": 33605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Gilung",
+      "PostalCode": 33606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Khudi",
+      "PostalCode": 33607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Phaliyasanghu",
+      "PostalCode": 33608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Bharate",
+      "PostalCode": 33609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Gaunda",
+      "PostalCode": 33610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Lamjung",
+      "Post Office": "Tarkughat",
+      "PostalCode": 33611,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Mahottari",
+      "PostalCode": 45700,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Bardibash",
+      "PostalCode": 45701,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Bhangaha",
+      "PostalCode": 45702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Loharpatti",
+      "PostalCode": 45703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Pipara",
+      "PostalCode": 45704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Matihani",
+      "PostalCode": 45705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Ramgopalpur",
+      "PostalCode": 45707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Balawa",
+      "PostalCode": 45708,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Laxminiya",
+      "PostalCode": 45710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Gaushala",
+      "PostalCode": 45711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Shreepur",
+      "PostalCode": 45712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Samsi",
+      "PostalCode": 45713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mahottari",
+      "Post Office": "Manara",
+      "PostalCode": 45714,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makabanpur",
+      "Post Office": "Hatiya",
+      "PostalCode": 44103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makabanpur",
+      "Post Office": "Aambhanjyang",
+      "PostalCode": 44104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makabanpur",
+      "Post Office": "Manahari",
+      "PostalCode": 44106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makabanpur",
+      "Post Office": "Basamadi",
+      "PostalCode": 44108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makabanpur",
+      "Post Office": "Markhu",
+      "PostalCode": 44113,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Makawanpur",
+      "PostalCode": 44100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Phaparbari",
+      "PostalCode": 44101,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Ritha Chhatibwn",
+      "PostalCode": 44102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Hetauda I.A.",
+      "PostalCode": 44107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Palung",
+      "PostalCode": 44110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Bhainse",
+      "PostalCode": 44111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Makawanpur",
+      "Post Office": "Bhimphedi",
+      "PostalCode": 44112,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Manang",
+      "PostalCode": 33500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Pisang",
+      "PostalCode": 33502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Bhakra",
+      "PostalCode": 33503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Mathillo Manang",
+      "PostalCode": 33504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Nar",
+      "PostalCode": 33507,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Manang",
+      "Post Office": "Dharapani",
+      "PostalCode": 33509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Morang",
+      "PostalCode": 56600,
+      "Post Office Type": "E.R.P.D."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Chunimari",
+      "PostalCode": 56601,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Rangeli",
+      "PostalCode": 56602,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Sanischare",
+      "PostalCode": 56603,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Urlabari",
+      "PostalCode": 56604,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Madhumalla",
+      "PostalCode": 56605,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Bayarban",
+      "PostalCode": 56606,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Sorabhag",
+      "PostalCode": 56607,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Dadarberiya",
+      "PostalCode": 56608,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Letang",
+      "PostalCode": 56609,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Kerabari",
+      "PostalCode": 56610,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Haraincha",
+      "PostalCode": 56611,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Bhaudaha",
+      "PostalCode": 56612,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Biratnagar Bazar",
+      "PostalCode": 56613,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Rani Sikiyahi",
+      "PostalCode": 56614,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Jhorahat",
+      "PostalCode": 56615,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Banigama",
+      "PostalCode": 56616,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Morang",
+      "Post Office": "Bansbari",
+      "PostalCode": 56617,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Mugu",
+      "PostalCode": 21100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Rowa",
+      "PostalCode": 21102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Pulu",
+      "PostalCode": 21103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Sorubarma",
+      "PostalCode": 21105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Rara",
+      "PostalCode": 21106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Sukhadhik",
+      "PostalCode": 21107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Gumtha",
+      "PostalCode": 21109,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mugu",
+      "Post Office": "Dhainkot",
+      "PostalCode": 21110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Mustang",
+      "PostalCode": 33100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Marpha",
+      "PostalCode": 33102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Kagbeni",
+      "PostalCode": 33103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Charang",
+      "PostalCode": 33104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Mustang",
+      "PostalCode": 33105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Chhoser",
+      "PostalCode": 33106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Muktinath",
+      "PostalCode": 33107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Lete",
+      "PostalCode": 33108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Mustang",
+      "Post Office": "Thak Tukuche",
+      "PostalCode": 33109,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Myagdi",
+      "PostalCode": 33200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Xyamarukot",
+      "PostalCode": 33202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Galeswor",
+      "PostalCode": 33203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Rakhu Bhagawati",
+      "PostalCode": 33204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Sikha",
+      "PostalCode": 33205,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Dana",
+      "PostalCode": 33206,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Babiyachaur",
+      "PostalCode": 33207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Darbang",
+      "PostalCode": 33208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Pakhapani",
+      "PostalCode": 33209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Takam",
+      "PostalCode": 33210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Myagdi",
+      "Post Office": "Lulang",
+      "PostalCode": 33211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Nawalparasi",
+      "PostalCode": 33000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Rakuwa",
+      "PostalCode": 33001,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Bulingtar",
+      "PostalCode": 33002,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Gaindakot",
+      "PostalCode": 33003,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Dumkauli",
+      "PostalCode": 33004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Shergunj",
+      "PostalCode": 33005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Naya Belhani",
+      "PostalCode": 33006,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Tribeni",
+      "PostalCode": 33007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Semari",
+      "PostalCode": 33008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Guthi persauni",
+      "PostalCode": 33009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Bhujahawa",
+      "PostalCode": 33010,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Makar",
+      "PostalCode": 33011,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Tilakpur",
+      "PostalCode": 33012,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Maheshpur",
+      "PostalCode": 33013,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Sunawal",
+      "PostalCode": 33015,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nawalparasi",
+      "Post Office": "Pithauli",
+      "PostalCode": 33016,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Nuwakot",
+      "PostalCode": 44900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Thansingh",
+      "PostalCode": 44902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Ranipauwa",
+      "PostalCode": 44903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Taruka",
+      "PostalCode": 44905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Deurali",
+      "PostalCode": 44906,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Kahule",
+      "PostalCode": 44907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Nuwakot",
+      "PostalCode": 44908,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Chokade",
+      "PostalCode": 44909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Kharanitar",
+      "PostalCode": 44910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Bhadratar",
+      "PostalCode": 44911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Ramabati",
+      "PostalCode": 44912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Rautbesi",
+      "PostalCode": 44913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Pokharichapadanda",
+      "PostalCode": 44914,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Nuwakot",
+      "Post Office": "Devighat",
+      "PostalCode": 44915,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Okhaldhunga",
+      "PostalCode": 56100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Khani Bhanjyang",
+      "PostalCode": 56101,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Rumjatar",
+      "PostalCode": 56102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Rampur",
+      "PostalCode": 56104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Bigutar",
+      "PostalCode": 56105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Khiji Phalate",
+      "PostalCode": 56106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Gamanangtar",
+      "PostalCode": 56107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Ghorakhori",
+      "PostalCode": 56108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Chyanam",
+      "PostalCode": 56109,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Mane Bhanjyang",
+      "PostalCode": 56110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Moli",
+      "PostalCode": 56111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Okhaldhunga",
+      "Post Office": "Ragani",
+      "PostalCode": 56112,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Palpa",
+      "PostalCode": 32500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Sahalkot",
+      "PostalCode": 32501,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Rampur",
+      "PostalCode": 32502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Hungi",
+      "PostalCode": 32503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Jalpa",
+      "PostalCode": 32504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Tahu",
+      "PostalCode": 32505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Jhadewa",
+      "PostalCode": 32506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Aryabhanjyang",
+      "PostalCode": 32507,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Madanpokhara",
+      "PostalCode": 32508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Khasyauli",
+      "PostalCode": 32509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Argali",
+      "PostalCode": 32510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Chhahara",
+      "PostalCode": 32511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Palungmainadi",
+      "PostalCode": 32512,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Palpa",
+      "Post Office": "Baldengadi",
+      "PostalCode": 32513,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Panchthar",
+      "PostalCode": 57400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Chyangthapu",
+      "PostalCode": 57401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Ambarpur",
+      "PostalCode": 57402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Namluwa",
+      "PostalCode": 57403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Yangnam",
+      "PostalCode": 57404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Nawamidanda",
+      "PostalCode": 57406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Mehelbote",
+      "PostalCode": 57407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Yasok",
+      "PostalCode": 57408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Mauwa",
+      "PostalCode": 57409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Rabi",
+      "PostalCode": 57410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Limba",
+      "PostalCode": 57411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Panchthar",
+      "Post Office": "Medibung",
+      "PostalCode": 57412,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Parbat",
+      "PostalCode": 33400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Salija",
+      "PostalCode": 33401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Khurkot",
+      "PostalCode": 33402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Deurali",
+      "PostalCode": 33403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Thulipokhari",
+      "PostalCode": 33405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Karkineta",
+      "PostalCode": 33406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Devisthan",
+      "PostalCode": 33407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Bachchha",
+      "PostalCode": 33408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Lankhudeurali",
+      "PostalCode": 33409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Hubas",
+      "PostalCode": 33410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Khor Pokhara",
+      "PostalCode": 33411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parbat",
+      "Post Office": "Setibeni",
+      "PostalCode": 33412,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Parsa",
+      "PostalCode": 44300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Aadarshanagar",
+      "PostalCode": 44301,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Parbanipur",
+      "PostalCode": 44303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Bindabasini",
+      "PostalCode": 44304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Bahuari Pidari",
+      "PostalCode": 44305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Shirsiya Khalwatola",
+      "PostalCode": 44306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Biruwaguthi",
+      "PostalCode": 44307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Pakahamainpur",
+      "PostalCode": 44308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Phokhariya",
+      "PostalCode": 44309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Ranigunj",
+      "PostalCode": 44310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Paterwa Sugauli",
+      "PostalCode": 44311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Viswa",
+      "PostalCode": 44312,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Janakitol",
+      "PostalCode": 44313,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Jeetpur",
+      "PostalCode": 44314,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Parsa",
+      "Post Office": "Thori",
+      "PostalCode": 44315,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Pyuthan",
+      "PostalCode": 22300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Dakhaquadi",
+      "PostalCode": 22301,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Bhingri",
+      "PostalCode": 22303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Wangesal",
+      "PostalCode": 22304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Baraula",
+      "PostalCode": 22305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Majuwa",
+      "PostalCode": 22307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Machchhi",
+      "PostalCode": 22308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Thulabesi",
+      "PostalCode": 22309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Lungbahane",
+      "PostalCode": 22310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Bijuwar",
+      "PostalCode": 22311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Pyuthan",
+      "Post Office": "Naya Gaun",
+      "PostalCode": 22312,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Ramechhap",
+      "PostalCode": 45400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Those",
+      "PostalCode": 45401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Duragaun",
+      "PostalCode": 45402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Betali",
+      "PostalCode": 45403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Khimti",
+      "PostalCode": 45404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Saghutar",
+      "PostalCode": 45405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Kathjor",
+      "PostalCode": 45406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Puranagaun",
+      "PostalCode": 45408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Doramba",
+      "PostalCode": 45409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Hiledevi",
+      "PostalCode": 45410,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Ramechhap",
+      "Post Office": "Bhirpani",
+      "PostalCode": 45411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rasuwa",
+      "Post Office": "Rasuwa",
+      "PostalCode": 45000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Rasuwa",
+      "Post Office": "Dhaibung",
+      "PostalCode": 45003,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rasuwa",
+      "Post Office": "Ramkali",
+      "PostalCode": 45004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rasuwa",
+      "Post Office": "Rasuwa",
+      "PostalCode": 45007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rasuwa",
+      "Post Office": "Syaphru Besi",
+      "PostalCode": 45009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Rautahat",
+      "PostalCode": 44500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Saruatha",
+      "PostalCode": 44502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Pipra bazar",
+      "PostalCode": 44503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Madhopur",
+      "PostalCode": 44504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Rajpurpharahadawa",
+      "PostalCode": 44506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Patharabudhram",
+      "PostalCode": 44508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Sitalpur",
+      "PostalCode": 44509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Shivanagar",
+      "PostalCode": 44510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Laxminiya",
+      "PostalCode": 44511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Katahariya",
+      "PostalCode": 44512,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Samanpur",
+      "PostalCode": 44513,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rautahat",
+      "Post Office": "Chandra Nigahapur",
+      "PostalCode": 44515,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Rolpa",
+      "PostalCode": 22100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Khungri",
+      "PostalCode": 22102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Sirpa",
+      "PostalCode": 22103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Thawang",
+      "PostalCode": 22106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Himtakura",
+      "PostalCode": 22107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Ghartigaun",
+      "PostalCode": 22108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Nerpa",
+      "PostalCode": 22110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Dahaban",
+      "PostalCode": 22111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Shulichaur",
+      "PostalCode": 22112,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rolpa",
+      "Post Office": "Jhenam (Holeri)",
+      "PostalCode": 22113,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Rukum",
+      "PostalCode": 22000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Rukumkot",
+      "PostalCode": 22002,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Riwangchaur",
+      "PostalCode": 22004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Kol",
+      "PostalCode": 22005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Peugha",
+      "PostalCode": 22007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Chaurjahari",
+      "PostalCode": 22008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Simli",
+      "PostalCode": 22009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Radijyula",
+      "PostalCode": 22010,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rukum",
+      "Post Office": "Baphikot",
+      "PostalCode": 22011,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Rupandehi",
+      "PostalCode": 32900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Siktahan",
+      "PostalCode": 32901,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Dhakadhai",
+      "PostalCode": 32902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Manigram",
+      "PostalCode": 32903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Kotihawa",
+      "PostalCode": 32904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Thutipipal",
+      "PostalCode": 32905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Butwal",
+      "PostalCode": 32907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Parroha",
+      "PostalCode": 32908,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Sauraha Pharsa",
+      "PostalCode": 32909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Amuwa",
+      "PostalCode": 32910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Saljhandi",
+      "PostalCode": 32911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Suryapura",
+      "PostalCode": 32912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Tenuhawa",
+      "PostalCode": 32913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Lumbini",
+      "PostalCode": 32914,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Betkuiya",
+      "PostalCode": 32915,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Rupandehi",
+      "Post Office": "Mahadehiya",
+      "PostalCode": 32916,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Salyan",
+      "PostalCode": 22200,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Kalimati Kalche",
+      "PostalCode": 22201,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Luham",
+      "PostalCode": 22202,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Dhanbang",
+      "PostalCode": 22203,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Mahaneta",
+      "PostalCode": 22204,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Malneta",
+      "PostalCode": 22207,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Maidu",
+      "PostalCode": 22208,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Ragechour",
+      "PostalCode": 22209,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Bhalchaur",
+      "PostalCode": 22210,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Salyan",
+      "Post Office": "Tharmare",
+      "PostalCode": 22211,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Sankhuwasabha",
+      "PostalCode": 56900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Hatiya",
+      "PostalCode": 56901,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Hedangana",
+      "PostalCode": 56902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Tamku",
+      "PostalCode": 56903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Chandanpur",
+      "PostalCode": 56904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Bahrabishe",
+      "PostalCode": 56905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Tumlingtar",
+      "PostalCode": 56906,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Wana",
+      "PostalCode": 56907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Shidhakali",
+      "PostalCode": 56908,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Madi",
+      "PostalCode": 56909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Ankhibhui",
+      "PostalCode": 56910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Mamling",
+      "PostalCode": 56911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Manebhanjyang",
+      "PostalCode": 56912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sankhuwasabha",
+      "Post Office": "Chainpur",
+      "PostalCode": 56913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Saptari",
+      "PostalCode": 56400,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Hanuman Nagar",
+      "PostalCode": 56401,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Bairaba",
+      "PostalCode": 56402,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Phattepur",
+      "PostalCode": 56403,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Kanchanpur",
+      "PostalCode": 56404,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Praswani",
+      "PostalCode": 56405,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Bhagawatpur",
+      "PostalCode": 56406,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Koiladi",
+      "PostalCode": 56407,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Chhinnamasta",
+      "PostalCode": 56408,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Bishnupur",
+      "PostalCode": 56409,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Rupani",
+      "PostalCode": 56411,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Pato",
+      "PostalCode": 56412,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Arnaha",
+      "PostalCode": 56413,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Kalyanpur",
+      "PostalCode": 56414,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Bodebarsain",
+      "PostalCode": 56415,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Sisawa",
+      "PostalCode": 56416,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Kadarwona",
+      "PostalCode": 56417,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Saptari",
+      "Post Office": "Bhardaha",
+      "PostalCode": 56418,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Sarlahi",
+      "PostalCode": 45800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Lalbandi",
+      "PostalCode": 45801,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Bayalbas",
+      "PostalCode": 45802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Haripurwa",
+      "PostalCode": 45803,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Hariaun",
+      "PostalCode": 45804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Haripur",
+      "PostalCode": 45805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Brahmapuri",
+      "PostalCode": 45806,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Kaudena",
+      "PostalCode": 45809,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Barahathawa",
+      "PostalCode": 45810,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Sundarpur",
+      "PostalCode": 45811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Dumariya",
+      "PostalCode": 45813,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Karmaiya",
+      "PostalCode": 45814,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Harkathawa",
+      "PostalCode": 45815,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Ramnagar(Bahuarwa)",
+      "PostalCode": 45816,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sarlahi",
+      "Post Office": "Chhatauna",
+      "PostalCode": 45817,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Sindhuli",
+      "PostalCode": 45900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Solpa",
+      "PostalCode": 45901,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Bahun Tilpung",
+      "PostalCode": 45902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Dudhauli",
+      "PostalCode": 45903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Dakaha",
+      "PostalCode": 45904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Gwaltar",
+      "PostalCode": 45905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Khurkot",
+      "PostalCode": 45906,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Belghari",
+      "PostalCode": 45907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Bhiman",
+      "PostalCode": 45909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Jhanga Jholi",
+      "PostalCode": 45910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Netrakali",
+      "PostalCode": 45911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Kapilakot",
+      "PostalCode": 45912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhuli",
+      "Post Office": "Pipalmadhiratanpur",
+      "PostalCode": 45913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Sindhupalchok",
+      "PostalCode": 45300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Kodari",
+      "PostalCode": 45301,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Barabise",
+      "PostalCode": 45302,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Atarpur",
+      "PostalCode": 45304,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Lamosanghu",
+      "PostalCode": 45305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Nawalpur",
+      "PostalCode": 45306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Pangtang",
+      "PostalCode": 45307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Jalbire",
+      "PostalCode": 45308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Bhotsipa",
+      "PostalCode": 45309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Melamchi Bahunepati",
+      "PostalCode": 45310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Gyalthum",
+      "PostalCode": 45311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Thangapaldhap",
+      "PostalCode": 45312,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Dubachaur",
+      "PostalCode": 45313,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sindhupalchok",
+      "Post Office": "Balephi",
+      "PostalCode": 45314,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Siraha",
+      "PostalCode": 56500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Bastipur",
+      "PostalCode": 56501,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Lahan",
+      "PostalCode": 56502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Bhagawanpur",
+      "PostalCode": 56503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Dhanagadhi",
+      "PostalCode": 56504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Maheshpur patari",
+      "PostalCode": 56505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Bariyarpatti",
+      "PostalCode": 56506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Golbazar (Asanpur)",
+      "PostalCode": 56508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Sukhipur",
+      "PostalCode": 56509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Bishnupur",
+      "PostalCode": 56511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Belha",
+      "PostalCode": 56512,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Madar",
+      "PostalCode": 56513,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Mirchaiya",
+      "PostalCode": 56515,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Bandipur",
+      "PostalCode": 56516,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Siraha",
+      "Post Office": "Kalyanpur",
+      "PostalCode": 56517,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Solukhumbu",
+      "PostalCode": 56000,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Namche Bazar",
+      "PostalCode": 56002,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Sotang",
+      "PostalCode": 56004,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Jubu",
+      "PostalCode": 56005,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Nele",
+      "PostalCode": 56006,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Necha",
+      "PostalCode": 56007,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Shishakhola",
+      "PostalCode": 56008,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Himaganga",
+      "PostalCode": 56009,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Solukhumbu",
+      "Post Office": "Lukla",
+      "PostalCode": 56010,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Sunsari",
+      "PostalCode": 56700,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Mangalbare",
+      "PostalCode": 56702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Chatara",
+      "PostalCode": 56703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Bakalauri",
+      "PostalCode": 56704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Itahari",
+      "PostalCode": 56705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Simariya",
+      "PostalCode": 56706,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Duhabi",
+      "PostalCode": 56707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Chimadi",
+      "PostalCode": 56708,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Jhumka",
+      "PostalCode": 56709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Inarauwa",
+      "PostalCode": 56710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Aurabari",
+      "PostalCode": 56711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Dewangunj",
+      "PostalCode": 56712,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Madhuvan",
+      "PostalCode": 56713,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Laukahee",
+      "PostalCode": 56714,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Bhutaha",
+      "PostalCode": 56715,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Mahendra Nagar",
+      "PostalCode": 56716,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Sunsari",
+      "Post Office": "Chhitaha",
+      "PostalCode": 56717,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Surkhet",
+      "PostalCode": 21700,
+      "Post Office Type": "M.W.R.P.D."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Chhinchu",
+      "PostalCode": 21701,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Ramghat",
+      "PostalCode": 21702,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Sahare",
+      "PostalCode": 21703,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Gumi",
+      "PostalCode": 21704,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Bheriganga",
+      "PostalCode": 21705,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Matela",
+      "PostalCode": 21706,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Garpan",
+      "PostalCode": 21707,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Kunathari",
+      "PostalCode": 21709,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Babiyachaur",
+      "PostalCode": 21710,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Surkhet",
+      "Post Office": "Gutu",
+      "PostalCode": 21711,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Syangja",
+      "PostalCode": 33800,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Kolma",
+      "PostalCode": 33802,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Kichnas",
+      "PostalCode": 33803,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Jharkham",
+      "PostalCode": 33804,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Arjunchaupari",
+      "PostalCode": 33805,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Panchamul",
+      "PostalCode": 33806,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Rangethanti",
+      "PostalCode": 33807,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Fedikhola",
+      "PostalCode": 33808,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Bhumare",
+      "PostalCode": 33811,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Kyakmi",
+      "PostalCode": 33812,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Waidha Bhanjhyang",
+      "PostalCode": 33813,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Chapakot",
+      "PostalCode": 33814,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Syanja",
+      "Post Office": "Galyang",
+      "PostalCode": 33815,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Tanahun",
+      "PostalCode": 33900,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Tuhure Pasal",
+      "PostalCode": 33902,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Manechauka",
+      "PostalCode": 33903,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Bandipur",
+      "PostalCode": 33904,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Aanbu Khaireni",
+      "PostalCode": 33905,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Baidi",
+      "PostalCode": 33906,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Kahunshivapur",
+      "PostalCode": 33907,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Rising Ranipokhari",
+      "PostalCode": 33908,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Ghiring Sundhara",
+      "PostalCode": 33909,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Bhimad",
+      "PostalCode": 33910,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Lamagaun",
+      "PostalCode": 33911,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Khairenitar",
+      "PostalCode": 33912,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Shisha Ghat",
+      "PostalCode": 33913,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Dumre",
+      "PostalCode": 33914,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Tanahun",
+      "Post Office": "Devaghat",
+      "PostalCode": 33915,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplajung",
+      "Post Office": "Khewang",
+      "PostalCode": 57501,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplajung",
+      "Post Office": "Sadeba",
+      "PostalCode": 57502,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplajung",
+      "Post Office": "Thokimba",
+      "PostalCode": 57509,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplajung",
+      "Post Office": "Dobhan",
+      "PostalCode": 57510,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Taplejung",
+      "PostalCode": 57500,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Sinam",
+      "PostalCode": 57503,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Pedang",
+      "PostalCode": 57504,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Thechambu",
+      "PostalCode": 57505,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Siwang",
+      "PostalCode": 57506,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Khokling",
+      "PostalCode": 57507,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Olangchunggola",
+      "PostalCode": 57508,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Change",
+      "PostalCode": 57511,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Taplejung",
+      "Post Office": "Hangpang",
+      "PostalCode": 57512,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Terhathum",
+      "PostalCode": 57100,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Jirikhimti",
+      "PostalCode": 57102,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Tinjure",
+      "PostalCode": 57103,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Basantapur",
+      "PostalCode": 57104,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Sudap",
+      "PostalCode": 57105,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Hamarjung",
+      "PostalCode": 57106,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Morahang",
+      "PostalCode": 57107,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Pokalawang",
+      "PostalCode": 57108,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Mulpani",
+      "PostalCode": 57110,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Terhathum",
+      "Post Office": "Iwa",
+      "PostalCode": 57111,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Udayapur",
+      "PostalCode": 56300,
+      "Post Office Type": "D.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Ratapani (Thoksila)",
+      "PostalCode": 56301,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Beltar",
+      "PostalCode": 56302,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Hadiya",
+      "PostalCode": 56303,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Pokhari",
+      "PostalCode": 56305,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Baraha",
+      "PostalCode": 56306,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Bhutar",
+      "PostalCode": 56307,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Rampur Jhilke",
+      "PostalCode": 56308,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Udayapur Gadhi",
+      "PostalCode": 56309,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Katari",
+      "PostalCode": 56310,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Sorung Chhabise",
+      "PostalCode": 56311,
+      "Post Office Type": "A.P.O."
+    },
+    {
+      "District": "Udayapur",
+      "Post Office": "Rauta Murkuchi",
+      "PostalCode": 56312,
+      "Post Office Type": "A.P.O."
+    }
+  ]

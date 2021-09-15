@@ -16,7 +16,10 @@ const styles = StyleSheet.create({
     header: {
         backgroundColor: 'coral',
         height: 80,
-        paddingTop: 35
+        paddingTop: 35,
+        position: 'fixed',
+        zIndex: 2,
+        width: '100%'
     },
     text: {
         fontSize: 20,
