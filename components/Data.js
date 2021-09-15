@@ -28,15 +28,21 @@ export default function Data() {
 
         // <Text style={styles.header}></Text>
         <View>
+            <View style={styles.header}>
 
-            <Text style={styles.header}>  District  Post Office  PostalCode</Text>
+                <Text style={styles.Head}>District</Text>
+                <Text style={styles.Head}>Post Office</Text>
+                <Text style={styles.Head}>PostalCode</Text>
+            </View>
             <FlatList
                 data={DATA}
                 style={styles.flat}
                 renderItem={({ item }) => (
-                    <View>
+                    <View style={styles.table}>
 
-                        <Text style={styles.lists}>  {item.District}  {item['Post Office']}  {item.PostalCode}</Text>
+                        <Text style={styles.lists}> {item.District}        </Text>
+                        <Text style={styles.lists}> {item['Post Office']}  </Text>
+                        <Text style={styles.lists}> {item.PostalCode}</Text>
                     </View>
                 )}
             />
@@ -48,33 +54,60 @@ const styles = StyleSheet.create({
     data: {
 
     },
+    Head: {
+        fontWeight: 'bold',
+        fontSize: 18,
+        color: 'white',
+
+    },
     items: {
         padding: 10,
     },
     lists: {
-        padding: 20,
-        backgroundColor: 'orange',
+        // padding: 20,
+        // backgroundColor: 'orange',
         fontWeight: 'bold',
-        fontSize: 18,
-        marginVertical: 10,
-        marginTop: 20
+        fontSize: 16,
+        // marginVertical: 10,
+        display: 'flex',
+        justifyContent: 'space-between'
+        // marginTop: 20
 
     },
     header: {
-        position: 'fixed',
-        width: '100%',
+        // position: 'fixed',
+        // width: '100%',
         padding: 20,
-        zIndex: 2,
+        // zIndex: 2,
+
         backgroundColor: 'black',
-        color: 'white',
-        fontWeight: 'bold',
-        fontSize: 18,
-        marginTop: 80
+
+        marginTop: 80,
+        display: 'flex',
+        flexDirection: 'row',
+        alignContent: 'center',
+        justifyContent: 'space-evenly',
+        // alignItems: '',
+        width: '100%',
+
 
 
     },
     flat: {
-        marginTop: 150
+        // marginTop: 150
+    },
+    table: {
+        display: 'flex',
+        flexDirection: 'row',
+        alignContent: 'center',
+        justifyContent: 'space-evenly',
+        // alignItems: '',
+        width: '100%',
+        padding: 20,
+        backgroundColor: 'orange',
+
+        marginVertical: 10,
+
     }
 
 })
