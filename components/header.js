@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'coral',
         height: 80,
         paddingTop: 35,
-        position: 'fixed',
+        // position: 'fixed',
         zIndex: 2,
         width: '100%'
     },
