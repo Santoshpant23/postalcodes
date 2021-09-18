@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "postalcodes",
+    "name": "Postal Codes",
     "slug": "postalcodes",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +20,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"santoshdemo.pant",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

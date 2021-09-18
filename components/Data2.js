@@ -72,7 +72,7 @@ export default function DataT() {
             <TextInput
                 style={styles.TextInput}
                 value={search}
-                placeholder="Search Here"
+                placeholder="Search District Here"
                 underlineColorAndroid="transparent"
                 onChangeText={(text) => searchFilter(text)}
             />
